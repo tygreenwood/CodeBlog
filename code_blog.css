@@ -1,0 +1,11 @@
+body {
+    background-color: antiquewhite;
+}
+
+.centered {
+    text-align: center;
+}
+
+#web_header {
+    font-size: 60px;
+}

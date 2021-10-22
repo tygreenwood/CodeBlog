@@ -1,16 +1,25 @@
 body {
     background-color: white;
+    margin: 0px;
 }
-
 
 .centered {
     text-align: center;
 }
 
-#web_header {
-    font-size: 60px;
+.header {
     color: white;
     background-color: black;
+    margin: 0px;
+}
+
+#web_header {
+    font-size: 60px;
+    margin: 0px;
+}
+
+#author {
+    padding-bottom: 20px;
 }
 
 a {
@@ -20,4 +29,8 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+.blog-post {
+    margin-left: 25px;
 }

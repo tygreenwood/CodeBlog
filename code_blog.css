@@ -16,6 +16,7 @@ body {
 #web_header {
     font-size: 60px;
     margin: 0px;
+    padding-top: 10px;
 }
 
 #author {
